@@ -1,0 +1,16 @@
+# File generati da Arduino IDE
+*.hex
+*.elf
+*.bin
+
+# Backup automatici
+*.bak
+*.dmp
+
+# Cartelle temporanee
+build/
+tmp/
+
+# File per OS
+.DS_Store
+Thumbs.db
