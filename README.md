@@ -1,5 +1,6 @@
 # 🛡️ Progetto Torretta Automatizzata Arduino (5° Liceo Scientifico)
 
+[![Download v1.0](https://img.shields.io/github/v/release/andreee5/Torretta_Automatizzata_Arduino?label=Download%20v1.0)](https://github.com/andreee5/Torretta_Automatizzata_Arduino/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andreee5/Torretta_Automatizzata_Arduino/blob/main/LICENSE)
 
 Progetto scolastico sviluppato durante il quinto anno di liceo scientifico, incentrato sulla realizzazione fisica e software di una **torretta automatizzata sparadardi** controllata via **Arduino**.
